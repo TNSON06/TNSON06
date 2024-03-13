@@ -3,11 +3,11 @@
 
 👀 I'm into web development, always eager to learn new things and make cool stuff online.
 
-🌱 Currently, I'm sharpening my skills in HTML, CSS, JavaScript, and diving into backend technologies like Node.js and MongoDB.
+🌱 Currently, I'm sharpening my skills in HTML, CSS, JavaScript, and diving into backend technologies like Node.js,PHP and MongoDB.
 
 💞️ I'm up for teaming up on any web projects that need an extra pair of hands!
 
-📫 You can reach me via email at your_email@example.com.
+📫 You can reach me via email tranngocson446@gmail.com.
 
 😄 Pronouns: He/Him
 
