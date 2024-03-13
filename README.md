@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @TNSON06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+👋 Hi, I'm @TNSON06!
+
+👀 I'm into web development, always eager to learn new things and make cool stuff online.
+
+🌱 Currently, I'm sharpening my skills in HTML, CSS, JavaScript, and diving into backend technologies like Node.js and MongoDB.
+
+💞️ I'm up for teaming up on any web projects that need an extra pair of hands!
+
+📫 You can reach me via email at your_email@example.com.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: Nothing
 
 <!---
 TNSON06/TNSON06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
