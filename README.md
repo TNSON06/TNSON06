@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂Random Dev Meme
-<img src="https://meme-api.com/gimme/programmingmemes" width="512px"/>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TNSON06&icon=2&color=0)](https://visitcount.itsvg.in)
